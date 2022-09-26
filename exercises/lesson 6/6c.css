@@ -1,0 +1,32 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 18px;
+}
+
+.firstline {
+  margin-bottom: 5px;
+}
+.org {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.gray {
+  color: rgb(94, 92, 92);
+  margin-bottom: 10px;
+}
+
+.description {
+  margin-bottom: 20px;
+  width: 600px;
+  line-height: 25px;
+}
+
+.channel {
+  color: rgb(83, 83, 255);
+  cursor: pointer;
+}
+.channel:hover {
+  text-decoration: underline;
+}

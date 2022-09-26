@@ -1,0 +1,24 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.unit {
+  margin-bottom: 8px;
+  font-size: 20px;
+  color: rgb(82, 78, 78);
+}
+.price {
+  font-size: 32px;
+  color: black;
+}
+
+.scale {
+  color: green;
+  margin-bottom: 8px;
+}
+
+.red {
+  color: rgb(204, 22, 22)
+}
