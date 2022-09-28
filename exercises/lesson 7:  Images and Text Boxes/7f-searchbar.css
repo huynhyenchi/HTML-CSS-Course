@@ -1,0 +1,37 @@
+p {
+  color: rgb(100, 100, 100);
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 20;
+  font-size: 12px;
+}
+.label {
+  margin-bottom: 5px;
+}
+.blank {
+  border-color: rgb(100, 100, 100);
+  border-style: solid;  
+  border-width: 1px;
+  width: 295px;
+  height: 18px;     
+  margin-bottom: 17px;
+  border-radius: 4px;
+}
+.disclaimer {
+  margin-bottom: 17px;
+}
+.join-button {
+  color: white;
+  background-color: rgb(5, 86, 167);
+  border: none;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  padding-left: 110px;
+  padding-right: 110px;
+  border-radius: 20px;
+  font-size: 15px;
+  cursor: pointer;
+}
+.join-button:hover {
+  background-color: rgb(9, 77, 146);
+}
