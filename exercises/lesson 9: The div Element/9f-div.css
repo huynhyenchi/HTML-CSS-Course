@@ -1,0 +1,47 @@
+.facebook {
+  width: 150px;
+  display: inline-block;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+  margin-left: 50px;
+  margin-top: 50px;
+}
+p {
+  display: block;
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.me {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  display: block;
+  margin-bottom: 0;
+  margin-bottom: 8px;
+}
+.name {
+  margin-bottom: 3px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 5px;
+}
+.mutual {
+  font-size: 15px;
+  color: rgb(100, 100, 100);
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+.add {
+  font-size: 16px;
+  color: white;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(24, 119, 242);
+  border: none;
+  border-radius: 5px;
+  margin-bottom: 5px;
+  margin-left: 5px;
+  cursor: pointer;
+}
